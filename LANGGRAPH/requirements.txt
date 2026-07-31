@@ -1,0 +1,10 @@
+langchain
+langchain-openai
+langchain-anthropic
+langchain-community
+langchain-experimental
+langgraph
+python-dotenv
+generative-ai-hub-sdk
+ipykernel
+jupyter
